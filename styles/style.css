@@ -247,7 +247,6 @@ ol {
 /* список городов начало*/
 .content__list-container {
   overflow-y: scroll;
-  overflow-x: hidden;
   height: 298px;
   width: 399px;
   position: relative;
