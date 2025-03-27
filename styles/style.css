@@ -258,11 +258,11 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 30px;
-  width: 100%;
+  width: 390px;
 }
 
 .content__list-item {
-  width: 100%;
+  width: 390px;
   height: 103px;
 }
 
